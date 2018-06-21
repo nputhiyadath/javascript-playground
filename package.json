@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "node src\\play.js",
-    "testWithMocha": "mocha src\\test.js",
+    "test": "mocha src\\test.js",
     "testWithJasmine": "jasmine src\\test.js"
   },
   "author": "Nidhish Puthiyadath",
