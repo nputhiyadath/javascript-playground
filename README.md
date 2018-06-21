@@ -1,6 +1,5 @@
 # javascript-playground
 
-Travis CI: \
 [![Build Status](https://travis-ci.org/nputhiyadath/javascript-playground.svg?branch=master)](https://travis-ci.org/nputhiyadath/javascript-playground)
 
 
