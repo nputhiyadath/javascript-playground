@@ -10,7 +10,7 @@ const compose = require('lodash/fp/compose')
 
 //Exploring FS module in Node
 
-fs.copyFile('E:\\DroolsDump\\Testing\\Source.txt', 'E:\\DroolsDump\\Testing\\Destination.txt', (err) => {
+fs.copyFile('.\Source.txt', '.\Destination.txt', (err) => {
     if (err) throw err
     console.log('source.txt was copied to destination.txt')
 });
