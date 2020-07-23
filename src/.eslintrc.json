@@ -22,8 +22,9 @@
       "single"
     ],
     "semi": [
-      "error",
+      "off",
       "never"
-    ]
+    ],
+    "no-console": "off"
   }
 }

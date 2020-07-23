@@ -13,9 +13,9 @@
     "eslint": "^4.19.1"
   },
   "scripts": {
-    "start": "node src\/play.js",
-    "test": "mocha src\/test.js",
-    "testWithJasmine": "jasmine src\/test.js"
+    "start": "node src/play.js",
+    "test": "mocha src/test.js",
+    "testWithJasmine": "jasmine src/test.js"
   },
   "author": "Nidhish Puthiyadath",
   "license": "ISC"
