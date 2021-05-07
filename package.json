@@ -4,7 +4,7 @@
   "description": "Javascript Playground",
   "dependencies": {
     "rxjs": "^5.5.7",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "mocha": "^5.1.1",
